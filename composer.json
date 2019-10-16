@@ -1,0 +1,20 @@
+{
+    "name": "stickee/laravel-sftp-dual-auth",
+    "description": "Stickee Laravel SFTP Dual Auth",
+    "version": "0.1",
+    "keywords": [
+        "sftp",
+        "storage"
+    ],
+    "homepage": "https://www.stickee.co.uk",
+    "readme": "README.md",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Stickee\\LaravelSftpDualAuth\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.2"
+    }
+}
